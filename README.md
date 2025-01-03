@@ -1,4 +1,3 @@
-A small implementation of HTTP Server in C to better understand backend
 
 P.S. Need to run server first then client in order.
 
